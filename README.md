@@ -14,17 +14,29 @@ Each method processes images from four datasets: **Cars**, **Flowers**, **Cat**,
 ## 📂 Folder Structure
 
 📂 parallel and distributing comp
+
 │── cars-20251027T101016Z-1-001/
+
 │── Cat-20251027T101016Z-1-001/
+
 │── dogs-20251027T101019Z-1-001/
+
 │── Flowers-20251027T101023Z-1-001/
+
 │── output_seq/
+
 │── output_parallel/
+
 │── output_distributed/
+
 │── sequential_process.py
+
 │── parallel_process.py
+
 │── distributed_simulation.py
+
 │── report.txt
+
 └── Readme.md
 
 yaml
